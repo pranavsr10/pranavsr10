@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m Pranav S R<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about <br>⚡ Fun fact : I use Linux Btw
+🔭 I’m Pranav S R<br>👯 I’m a Programmer| Web Designer <br>🤝 Passionate football lover|Fan of Lionel Messi <br>🌱 I’m currently learning Anroid Development <br>⚡ Fun fact : I use Linux Btw
 
 
 ## 🌐 Socials:
@@ -20,11 +20,10 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/pranav_sr10)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pranavsr10&icon=0&color=0)](https://visitcount.itsvg.in)
