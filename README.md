@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Folks 👋
 
 # 💫 About Me:
 🔭 I’m Pranav S R<br>👯 I’m a Programmer| Web Designer <br>🤝 Passionate football lover|Fan of Lionel Messi <br>🌱 I’m currently learning Anroid Development <br>⚡ Fun fact : I use Linux Btw
